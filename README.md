@@ -36,7 +36,7 @@ End
 3. 🖥️ Open a terminal or command prompt and navigate to the script directory.
 4. ▶️ Run the script using:
    ```bash
-   python countdown_timer.py
+   python countdown.py
    ```
 
 ## 📜 License
